@@ -1,0 +1,12 @@
+/* dropdown with search */
+.dropdown-search .dropdown-menu a {
+    padding: 5px 20px;
+}
+.dropdown-search img{
+    max-width: 20px;
+}
+.dropdown-search .dropdown-item{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
