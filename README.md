@@ -21,24 +21,17 @@
     </div>
   </code>
   search input data-linkedto-list must be same as <b>.dropdown-menu-list</b> attribute id - linking filter feature
-  <h6>Referrence </h6>
+  <h4>Referrence</h4>
   <img src="https://github.com/chandar1119/dropdown/blob/master/assets/images/onlyfor-readme/input-ref.png">
 
   </li>
   <li style="border-bottom:1px solid #333:padding:10px 0;">Multiple Choose dropdown</li>
 
-  <li style="border-bottom:1px solid #333:padding:10px 0;">Preload dropdown based on <b> we need to mention preload data in dropdown button attribute <code>data-predefined-list=""<code> based on this value the dropdown will be preloaded<b>
+  <li style="border-bottom:1px solid #333:padding:10px 0;"><b>We need to mention preload data in dropdown button attribute <code>data-predefined-list=""<code> based on this value the dropdown will be preloaded/preselected<b>
 
   <h4>View</h4>
   <img src="https://github.com/chandar1119/dropdown/blob/master/assets/images/onlyfor-readme/sample-dropdown.png">
   <h4>HTML PART</h4>
-  <code>
-      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
-      data-bs-toggle="dropdown" data-predefined-list="Australia,India" aria-expanded="false">
-      Choose Country
-      </button>
-  </code>
-  <h6>Referrence </h6>
   <img src="https://github.com/chandar1119/dropdown/blob/master/assets/images/onlyfor-readme/sample-html-code.png">
 
   </li>
