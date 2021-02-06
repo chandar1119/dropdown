@@ -12,6 +12,8 @@
 <li>Adding search/filter to dropwn</li>
 <li>Multiple Choose dropdown</li>
 
-<li>Preload dropdown based on <b>dropdown attr - <code>' data-predefined-list="" '<code> <b></li>
-<ol>
+<li>Preload dropdown based on <b>dropdown button attr - <code>data-predefined-list=""<code> <b>
+<img src="https://github.com/chandar1119/dropdown/blob/master/assets/images/onlyfor-readme/sample-dropdown.png">
+</li>
+</ol>
 
