@@ -31,6 +31,6 @@
   </li>
 
 
-  <li> For Development Purpose we can take value from dropdown button attribute <b>data-predefined-list</b>
+  <li>For Development Purpose we can take value from dropdown button attribute <b>data-predefined-list</b>
 </ol>
 
