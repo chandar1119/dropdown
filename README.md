@@ -14,7 +14,7 @@
   <img src="https://github.com/chandar1119/dropdown/blob/master/assets/images/onlyfor-readme/sample-search.png">
   To initialize Search Feature for dropdown we need to declare a HTML input with an attribute "data-linkedto-list" and that must be same as "dropdown-menu-list" div's id
   <h4>Screen Shot for Referrence</h4>
-  <img src="https://github.com/chandar1119/dropdown/blob/master/assets/images/onlyfor-readme/input-ref.png">
+  <img src="https://github.com/chandar1119/dropdown/blob/master/assets/images/onlyfor-readme/input-referrence.png">
   </li>
 
   <li>Preload/preselect dropdown list
@@ -29,5 +29,8 @@
   <li>
   Event handling are done in custom.js and it will located here <a href="https://github.com/chandar1119/dropdown/blob/master/assets/js/custom.js" title="js"></a>
   </li>
+
+
+  <li> For Development Purpose we can take value from dropdown button attribute <b>data-predefined-list</b>
 </ol>
 

@@ -10,10 +10,10 @@
     width: 100%;
     border-radius: 0;
     outline: 0;
-    box-shadow: none !important;
     color: #333;
     background-color: transparent !important;
     border: 1px solid rgba(0,0,0,.15);
+    box-shadow: none !important;
 }
 .dropdown-search .dropdown-toggle::after{
     position: absolute;
